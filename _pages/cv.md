@@ -3,7 +3,6 @@ title: "CV"
 permalink: /cv/
 ---
 
-{% include base_path %}
 
 Education
 ======
