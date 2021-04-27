@@ -108,7 +108,7 @@ author:
       # url: "https://your-website.com"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin-square"
-      url: "www.linkedin.com/jcai-47"
+      url: "https://www.linkedin.com/in/jiaqi-cai47"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -133,7 +133,7 @@ footer:
       # url:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-square"
-      url: "www.linkedin.com/jcai-47"
+      url: "https://www.linkedin.com/in/jiaqi-cai47"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jcdiv47"
