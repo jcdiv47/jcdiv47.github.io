@@ -19,7 +19,7 @@ locale                   : en # "en-US"
 title                    : "Jiaqi's Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "CAI Jiaqi"
+name                     : "Jiaqi Cai"
 description              : "An amazing website."
 url                      : "https://jcdiv47.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiaqi Cai"
+  name             : "CAI Jiaqi/蔡 嘉祺"
   avatar           : "images/deadpool_2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Just trying to learn new things every day.\nNittany Lion. Badger. SJTUer."
   location         : "Guangzhou, China"
@@ -102,7 +102,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:jackcai47@hotmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
