@@ -288,3 +288,10 @@ defaults:
       show_date: true
       date_format: "%Y-%m-%d"
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
