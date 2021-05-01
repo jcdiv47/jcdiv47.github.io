@@ -10,4 +10,4 @@ paperurl: 'http://jcdiv47.github.io/files/CAI_CV.pdf'
 
 [test](http://jcdiv47.github.io/files/CAI_CV.pdf)
 
-<a href="http://jcdiv47.github.io/files/CAI_CV.pdf">tttttest</a>
+<a href="http://jcdiv47.github.io/files/CAI_CV.pdf" target="_blank">tttttest</a>
