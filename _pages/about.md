@@ -8,4 +8,4 @@ excerpt: ""
 
 [test](http://jcdiv47.github.io/files/CAI_CV.pdf)
 
-<u><a href="http://jcdiv47.github.io/files/CAI_CV.pdf">tttttest</a></u>
+<a href="http://jcdiv47.github.io/files/CAI_CV.pdf">tttttest</a>
