@@ -3,7 +3,7 @@ title: "学习资源 / Learning Resources"
 layout: single
 permalink: /learning/
 author_profile: false
-tagline: '\"The better we get at getting better, the faster we will get better\". - Douglas Engelbart'
+tagline: '\"The better we get at getting better, the faster we will get better.\" - Douglas Engelbart'
 header:
   overlay_image: /assets/images/learning-header-overlay.jpg
   caption: "Photo credit: **Priscilla Du Preez**(https://unsplash.com/@priscilladupreez)"
@@ -39,4 +39,4 @@ header:
 ## 一些有用的链接 / Useful links
 
 - [简历制作](https://zhuanlan.zhihu.com/p/105640224)
-- [机器学习军火库-超全机器学习算法岗面试与提问总结](https://zhuanlan.zhihu.com/p/58434325)
+- [机器学习军火库\|超全机器学习算法岗面试与提问总结](https://zhuanlan.zhihu.com/p/58434325)
