@@ -32,7 +32,7 @@ header:
 
 以下为一些优质的学习资源，多为干货满满的大牛个人主页、技术博客或公众号，或者是有问题不懂时值得翻看的学习网站。
 
-- [王喆的主页](http://wzhe.me/) /| [微信公众号：王喆的机器学习笔记](/assets/images/王喆公众号二维码.jpg)
+- [王喆的主页](http://wzhe.me/) | [微信公众号：王喆的机器学习笔记](/assets/images/王喆公众号二维码.jpg)
 - [美团技术团队博客](https://tech.meituan.com/)
 - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
 
