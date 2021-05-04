@@ -20,10 +20,10 @@ excerpt: ""
 ### 推荐系统 / Recommender System
 
 [[Youtube] Deep Neural Networks for YouTube Recommendations](<https://github.com/jcdiv47/jcdiv47.github.io/blob/master/files/reco_sys_papers/[Youtube] Deep Neural Networks for YouTube Recommendations.pdf>)
-[Wide & Deep] <https://github.com/jcdiv47/jcdiv47.github.io/blob/master/files/reco_sys_papers/Wide & Deep.pdf>
-[LS-PLM] <https://github.com/jcdiv47/jcdiv47.github.io/blob/master/files/reco_sys_papers/Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction.pdf>
-[FM] <https://github.com/jcdiv47/jcdiv47.github.io/blob/master/files/reco_sys_papers/Rendle2010FM.pdf>
-[Deep FM] <https://github.com/jcdiv47/jcdiv47.github.io/blob/master/files/reco_sys_papers/DeepFM.pdf>
+[Wide & Deep](<https://github.com/jcdiv47/jcdiv47.github.io/blob/master/files/reco_sys_papers/Wide & Deep.pdf>)
+[阿里巴巴LS-PLM](<https://github.com/jcdiv47/jcdiv47.github.io/blob/master/files/reco_sys_papers/Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction.pdf>)
+[FM](<https://github.com/jcdiv47/jcdiv47.github.io/blob/master/files/reco_sys_papers/Rendle2010FM.pdf>)
+[Deep FM](<https://github.com/jcdiv47/jcdiv47.github.io/blob/master/files/reco_sys_papers/DeepFM.pdf>)
 
 ## 他山之石 可以攻玉 / Learn from the best
 
