@@ -23,16 +23,16 @@ header:
 ### 推荐系统 / Recommender System
 
 - [[Youtube] Deep Neural Networks for YouTube Recommendations](<https://github.com/jcdiv47/jcdiv47.github.io/blob/master/files/reco_sys_papers/[Youtube] Deep Neural Networks for YouTube Recommendations.pdf>)
-- [Wide & Deep](<https://github.com/jcdiv47/jcdiv47.github.io/blob/master/files/reco_sys_papers/Wide & Deep.pdf>)
-- [阿里巴巴LS-PLM](<https://github.com/jcdiv47/jcdiv47.github.io/blob/master/files/reco_sys_papers/Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction.pdf>)
-- [FM](<https://github.com/jcdiv47/jcdiv47.github.io/blob/master/files/reco_sys_papers/Rendle2010FM.pdf>)
-- [Deep FM](<https://github.com/jcdiv47/jcdiv47.github.io/blob/master/files/reco_sys_papers/DeepFM.pdf>)
+- [Wide & Deep](<http://jcdiv47.github.io/files/reco_sys_papers/Wide & Deep.pdf>)
+- [阿里巴巴LS-PLM](<http://jcdiv47.github.io/files/reco_sys_papers/Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction.pdf>)
+- [FM](<http://jcdiv47.github.io/files/reco_sys_papers/Rendle2010FM.pdf>)
+- [Deep FM](<http://jcdiv47.github.io/files/reco_sys_papers/DeepFM.pdf>)
 
 ## 他山之石 可以攻玉 / Learn from the best
 
 以下为一些优质的学习资源，多为干货满满的大牛个人主页、技术博客或公众号，或者是有问题不懂时值得翻看的学习网站。
 
-- [王喆的主页](http://wzhe.me/) | [微信公众号：王喆的机器学习笔记](/assets/images/王喆公众号二维码.jpg)
+- [王喆的主页](http://wzhe.me/), [微信公众号：王喆的机器学习笔记](http://jcdiv47.github.io/assets/images/王喆公众号二维码.jpg)
 - [美团技术团队博客](https://tech.meituan.com/)
 - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
 
