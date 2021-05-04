@@ -6,7 +6,7 @@ author_profile: false
 tagline: '\"The better we get at getting better, the faster we will get better.\" - Douglas Engelbart'
 header:
   overlay_image: /assets/images/learning-header-overlay.jpg
-  caption: "Photo credit: **Priscilla Du Preez**(https://unsplash.com/@priscilladupreez)"
+  caption: "Photo credit: [**Priscilla Du Preez**](https://unsplash.com/@priscilladupreez)"
 ---
 
 
