@@ -32,11 +32,19 @@ header:
 
 以下为一些优质的学习资源，多为干货满满的大牛个人主页、技术博客或公众号，或者是有问题不懂时值得翻看的学习网站。
 
+- [王喆的主页](http://wzhe.me/) /| [微信公众号：王喆的机器学习笔记](/assets/images/王喆公众号二维码.jpg)
 - [美团技术团队博客](https://tech.meituan.com/)
 - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
 
 
 ## 一些有用的链接 / Useful links
+
+### 个人主页制作
+
+- [YAML语法规范](https://blog.csdn.net/IT_faquir/article/details/79842885)
+- [YAML格式入门](https://cloud.tencent.com/developer/article/1395963)
+
+### 漫漫求职路
 
 - [简历制作](https://zhuanlan.zhihu.com/p/105640224)
 - [机器学习军火库\|超全机器学习算法岗面试与提问总结](https://zhuanlan.zhihu.com/p/58434325)
