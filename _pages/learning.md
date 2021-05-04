@@ -3,7 +3,7 @@ title: "学习资源 / Learning Resources"
 layout: single
 permalink: /learning/
 author_profile: false
-tagline: "The better we get at getting better, the faster we will get better. - Douglas Engelbart"
+tagline: '\"The better we get at getting better, the faster we will get better\". - Douglas Engelbart'
 header:
   overlay_image: /assets/images/learning-header-overlay.jpg
   caption: "Photo credit: **Priscilla Du Preez**(https://unsplash.com/@priscilladupreez)"
@@ -16,7 +16,7 @@ header:
 - LinkedIn: [蔡嘉祺的LinkedIn](https://www.linkedin.com/in/jiaqi-cai47/)
 - 知乎: [蔡嘉祺的知乎私信](https://www.zhihu.com/people/cai-jia-qi-27-32)
 
-## 为有源头活水来 / 
+## 为有源头活水来 / It never gets "old"
 
 以下为一些经典论文
 
