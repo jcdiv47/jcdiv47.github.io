@@ -1,13 +1,12 @@
 ---
+title: "学习资源 / Learning Resources"
 layout: single
 permalink: /learning/
-title: "学习资源 / Learning Resources"
 author_profile: false
 tagline: ""The better we get at getting better, the faster we will get better." - Douglas Engelbart"
 header:
   overlay_image: /assets/images/learning-header-overlay.jpg
   caption: Photo by <a href="https://unsplash.com/@priscilladupreez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Priscilla Du Preez</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
 ---
 
 
