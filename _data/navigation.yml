@@ -6,8 +6,8 @@ main:
     url: /year-archive/
   - title: "CV"
     url: /cv/
-  - title: "Guide"
-    url: /markdown/
+  - title: "Learning"
+    url: /learning/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
