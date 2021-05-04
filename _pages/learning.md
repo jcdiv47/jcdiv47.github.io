@@ -1,3 +1,8 @@
+'''
+layout: single
+permalink: /learning/
+'''
+
 # 学习资源
 
 
@@ -8,7 +13,7 @@
 
 ### 推荐系统
 
-[Youtube](jcdiv47.github.io/files/reco_sys_papers/[Youtube] Deep Neural Networks for YouTube Recommendations.pdf)
+[Youtube]("https://github.com/jcdiv47/jcdiv47.github.io/blob/master/files/reco_sys_papers/[Youtube] Deep Neural Networks for YouTube Recommendations.pdf")
 
 ## 他山之石 可以攻玉
 
