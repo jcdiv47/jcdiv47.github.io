@@ -36,4 +36,4 @@ excerpt: ""
 ## 一些有用的链接 / Useful links
 
 - [简历制作](https://zhuanlan.zhihu.com/p/105640224)
-- [机器学习军火库 | 超全机器学习算法岗面试与提问总结](https://zhuanlan.zhihu.com/p/58434325)
+- [机器学习军火库-超全机器学习算法岗面试与提问总结](https://zhuanlan.zhihu.com/p/58434325)
