@@ -4,6 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_image: /assets/images/homepage-overlay.jpg
+  caption: "Photo credit: [**Samantha Gades**](https://unsplash.com/@srosinger3997)"
   actions:
     - label: "简历"
       url: "/files/蔡嘉祺的简历.pdf"
