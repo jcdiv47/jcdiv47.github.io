@@ -22,7 +22,7 @@ header:
 
 <details>
   <summary>**推荐系统 / Recommender System**</summary>
-  
+
 - [[Youtube] Deep Neural Networks for YouTube Recommendations](<https://github.com/jcdiv47/jcdiv47.github.io/blob/master/files/reco_sys_papers/[Youtube] Deep Neural Networks for YouTube Recommendations.pdf>)
 - [Wide & Deep](<http://jcdiv47.github.io/files/reco_sys_papers/Wide & Deep.pdf>)
 - [阿里巴巴LS-PLM](<http://jcdiv47.github.io/files/reco_sys_papers/Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction.pdf>)
