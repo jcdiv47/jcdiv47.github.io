@@ -21,7 +21,7 @@ header:
 以下为一些经典论文
 
 <details>
-  <summary>### 推荐系统 / Recommender System</summary>
+  <summary>**推荐系统 / Recommender System**</summary>
   
 - [[Youtube] Deep Neural Networks for YouTube Recommendations](<https://github.com/jcdiv47/jcdiv47.github.io/blob/master/files/reco_sys_papers/[Youtube] Deep Neural Networks for YouTube Recommendations.pdf>)
 - [Wide & Deep](<http://jcdiv47.github.io/files/reco_sys_papers/Wide & Deep.pdf>)
