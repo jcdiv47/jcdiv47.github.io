@@ -39,6 +39,7 @@ header:
 ### 博客
 
 - [王喆的主页](http://wzhe.me/)
+- [标点符](https://www.biaodianfu.com/roadmap)
 - [美团技术团队博客](https://tech.meituan.com/)
 - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
 
