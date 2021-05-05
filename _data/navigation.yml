@@ -3,7 +3,7 @@ main:
 #   - title: "About"
 #     url: /about/
   - title: "Blogs/博客"
-    url: /year-archive/
+    url: /categories/
 #   - title: "CV"
 #     url: /cv/
   - title: "Learning/学习资源"
