@@ -21,13 +21,14 @@ header:
 以下为一些经典论文
 
 <details>
-  <summary>**推荐系统 / Recommender System**</summary>
+  <summary>推荐系统 / Recommender System</summary>
 
 - [[Youtube] Deep Neural Networks for YouTube Recommendations](<https://github.com/jcdiv47/jcdiv47.github.io/blob/master/files/reco_sys_papers/[Youtube] Deep Neural Networks for YouTube Recommendations.pdf>)
 - [Wide & Deep](<http://jcdiv47.github.io/files/reco_sys_papers/Wide & Deep.pdf>)
 - [阿里巴巴LS-PLM](<http://jcdiv47.github.io/files/reco_sys_papers/Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction.pdf>)
 - [FM](<http://jcdiv47.github.io/files/reco_sys_papers/Rendle2010FM.pdf>)
 - [Deep FM](<http://jcdiv47.github.io/files/reco_sys_papers/DeepFM.pdf>)
+
 </details>
 
 
