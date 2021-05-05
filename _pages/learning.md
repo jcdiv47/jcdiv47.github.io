@@ -51,6 +51,9 @@ header:
 
 ## 一些有用的链接 / Useful links
 
+- [菜鸟教程](https://www.runoob.com/)
+- [Whimsical思维导图](https://whimsical.com)
+
 ### 个人主页制作
 
 - [minimal mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
