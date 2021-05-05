@@ -1,15 +1,15 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Blogs"
+#   - title: "About"
+#     url: /about/
+  - title: "Blogs/博客"
     url: /year-archive/
-  - title: "CV"
-    url: /cv/
-  - title: "Learning"
+#   - title: "CV"
+#     url: /cv/
+  - title: "Learning/学习资源"
     url: /learning/
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+#   - title: "Quick-Start Guide"
+#     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
