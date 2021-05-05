@@ -3,7 +3,7 @@ title: "蔡嘉祺的主页"
 permalink: /
 hidden: true
 header:
-  overlay_image: /assets/images/homepage-overlay.jpg
+  image: /assets/images/homepage-overlay.jpg
   actions:
     - label: "简历"
       url: "/files/蔡嘉祺的简历.pdf"
