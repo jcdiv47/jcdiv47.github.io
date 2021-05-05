@@ -2,11 +2,11 @@
 main:
 #   - title: "About"
 #     url: /about/
-  - title: "Blogs/博客"
+  - title: "博客/Blogs"
     url: /categories/
 #   - title: "CV"
 #     url: /cv/
-  - title: "Learning/学习资源"
+  - title: "学习资源/Learning"
     url: /learning/
 #   - title: "Quick-Start Guide"
 #     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
