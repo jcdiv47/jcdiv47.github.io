@@ -1,13 +1,12 @@
 ---
 title: 推荐系统中的深度学习模型
 layout: single
-classes: wide
 categories:
   - 原理
 tags:
   - Recommender System
   - Deep Learning
-toc: false
+toc: true
 toc_label: "目录"
 toc_icon: "cog"
 last_modified_at: 2021-05-08
@@ -15,7 +14,7 @@ last_modified_at: 2021-05-08
 
 
 
-![深度学习推荐模型演化关系图](C:\Nutstore\Dropbox\JIAQI_CAI\jcdiv47.github.io\assets\images\Deep Learning Recommender Models.png)
+![深度学习推荐模型演化关系图](https://jcdiv47.github.io/assets/images/Deep Learning Recommender Models.png)
 
 
 
