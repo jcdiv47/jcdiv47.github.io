@@ -7,19 +7,15 @@ categories:
 tags:
   - Recommender System
   - Deep Learning
-toc: true
-toc_label: "Table of Contents"
+toc: false
+toc_label: "目录"
 toc_icon: "cog"
 last_modified_at: 2021-05-08
 ---
 
 
 
-# 
-
-
-
-![深度学习推荐模型演化关系图](C:\Nutstore\Nutbox\JIAQI_CAI\jcdiv47.github.io\assets\images\Deep Learning Recommender Models.png)
+![深度学习推荐模型演化关系图](C:\Nutstore\Dropbox\JIAQI_CAI\jcdiv47.github.io\assets\images\Deep Learning Recommender Models.png)
 
 
 

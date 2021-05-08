@@ -10,7 +10,7 @@ tags:
   - Deep Learning
   - Data Mining
 toc: true
-toc_label: "Table of Contents"
+toc_label: "目录"
 toc_icon: "cog"
 last_modified_at: 2021-05-07
 ---
