@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: [**Samantha Gades**](https://unsplash.com/@srosinger3997)"
   actions:
     - label: "简历"
-      url: "/files/蔡嘉祺的简历.pdf"
+      url: "/files/Cai_中文简历.pdf"
     - label: "CV"
       url: "/files/Cai_CV.pdf"
 excerpt: ""
