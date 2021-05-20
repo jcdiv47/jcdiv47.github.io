@@ -6,7 +6,7 @@ header:
   actions:
     - label: "Categories"
       url: "/categories/"
-permalink: /categories/
+permalink: /tags/
 layout: tags
 author_profile: true
 ---
