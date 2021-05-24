@@ -3,7 +3,7 @@ title: 特征工程技巧总结
 layout: single
 classes: wide
 categories:
-  - 技巧
+  - Technique
 tags:
   - Feature Engineering
   - Machine Learning

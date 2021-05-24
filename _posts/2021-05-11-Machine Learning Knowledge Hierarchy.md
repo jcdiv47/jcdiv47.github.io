@@ -3,7 +3,7 @@ title: 机器学习知识体系汇总
 layout: single
 classes: wide
 categories:
-  - 理论
+  - Theory
 tags:
   - Data Processing
   - Machine Learning

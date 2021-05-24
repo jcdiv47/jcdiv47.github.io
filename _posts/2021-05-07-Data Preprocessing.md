@@ -3,7 +3,7 @@ title: 数据预处理技巧总结
 layout: single
 classes: wide
 categories:
-  - 技巧
+  - Technique
 tags:
   - Data Processing
   - Machine Learning

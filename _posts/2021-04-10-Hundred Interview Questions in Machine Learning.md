@@ -3,7 +3,7 @@ title: 《百面机器学习》学习总结
 layout: single
 classes: wide
 categories:
-  - 技巧
+  - Technique
 tags:
   - Data Processing
   - Machine Learning

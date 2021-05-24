@@ -3,7 +3,7 @@ title: 数据结构与算法学习总结
 layout: single
 classes: wide
 categories:
-  - 理论
+  - Theory
 tags:
   - Data Structures
   - Algorithms

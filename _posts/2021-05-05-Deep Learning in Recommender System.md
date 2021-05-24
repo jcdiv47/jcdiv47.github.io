@@ -3,7 +3,7 @@ title: 推荐系统中的深度学习模型
 layout: single
 classes: wide
 categories:
-  - 原理
+  - Theory
 tags:
   - Recommender System
   - Deep Learning
