@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "jiaqicai.com",
     ignorePatterns: ["private", "templates", ".obsidian", "daily notes"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,

@@ -1,6 +1,6 @@
 ---
 date created: Sunday, March 3rd 2024, 16:17:16
-date modified: Tuesday, March 5th 2024, 21:04:40
+date modified: Monday, March 25th 2024, 22:18:33
 ---
 
 In vanilla multi-head attention setting, there is a separate set of query, key and value vectors for each token. In this case, the memory usage goes up quickly for long sequence and incremental inference is often slow. Multi-query attention(MQA) instead shares keys and values across all different attention heads.
