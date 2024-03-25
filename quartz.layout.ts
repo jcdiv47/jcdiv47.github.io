@@ -33,7 +33,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-    Component.RecentNotes({limit: 3, linkToMore: "tags"}),
   ],
 }
 
