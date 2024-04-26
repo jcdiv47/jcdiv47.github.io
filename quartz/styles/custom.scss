@@ -1,3 +1,20 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+h1 {
+    color: #bb5555; // Set the color to red
+}
+
+h2 {
+    color: #f9c629;
+}
+
+h3 {
+    color: #168118;
+}
+
+h4,
+h5,
+h6 {
+    color: #75a0ea;
+}
