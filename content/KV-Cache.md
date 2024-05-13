@@ -3,6 +3,8 @@ date created: Sunday, March 3rd 2024, 0:22:53
 date modified: Monday, March 4th 2024, 23:09:35
 tags:
   - llm/generation
+date: 2024-03-24T15:42:15.1515+08:00
+last-modified: 2024-05-01T16:12:43.4343+08:00
 ---
 > [!tip] Motivation
 > One of the major downsides of transformer architecture is that memory footprint and calculation grow quadratically in terms of sequence length.

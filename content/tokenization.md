@@ -1,8 +1,8 @@
 ---
-date created: 2024-01-05T00:14:18.1818+08:00
-date modified: 2024-03-25T22:31:00.000+08:00
 tags:
   - llm/tokenizer
+date: 2024-03-24T15:42:15.1515+08:00
+last-modified: 2024-05-01T16:09:28.2828+08:00
 ---
 # Byte Pair Encoding
 

@@ -5,6 +5,8 @@ tags:
   - llm/generation
 aliases:
   - inference
+date: 2024-03-24T15:42:15.1515+08:00
+last-modified: 2024-05-01T16:12:51.5151+08:00
 ---
 
 > [!summary] Start from an [overview](https://huggingface.co/blog/how-to-generate) on huggingface about how to generate tokens with llm.

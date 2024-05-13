@@ -1,10 +1,10 @@
 ---
-date created: 2024-01-13T23:16:30.3030+08:00
-date modified: 2024-03-25T22:40:07.077+08:00
 tags:
   - deep-learning
   - machine-learning
 draft: "true"
+date: 2024-03-24T15:42:15.1515+08:00
+last-modified: 2024-05-01T16:10:59.5959+08:00
 ---
 
 # Hinge Loss

@@ -4,6 +4,8 @@ date modified: 2024-03-25T22:30:17.1717+08:00
 tags:
   - huggingface
   - transformers
+date: 2024-03-24T15:42:15.1515+08:00
+last-modified: 2024-05-01T16:12:46.4646+08:00
 ---
 > [!tldr] This note effectively serves as a cheatsheet for huggingface and/or transformers.
 

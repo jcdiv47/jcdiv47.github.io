@@ -3,6 +3,8 @@ date created: Tuesday, January 9th 2024, 23:42:15
 date modified: Monday, March 4th 2024, 23:37:27
 tags:
   - transformers
+date: 2024-03-24T15:42:15.1515+08:00
+last-modified: 2024-05-01T16:12:54.5454+08:00
 ---
 > [!tip] BERT is the product of training technique applied to the [[transformers]] architecture.
 
@@ -32,7 +34,6 @@ To predict if the second sentence is indeed connected to the first, the followin
 ## Sentiment Analysis
 
 Classification tasks such as sentiment analysis are done similarly to Next Sentence classification, by adding a classification layer on top of the Transformer output for the [CLS] token.
-
 
 ## Question Answering
 

@@ -1,6 +1,6 @@
 ---
-date created: Sunday, March 3rd 2024, 16:17:16
-date modified: Monday, March 25th 2024, 22:18:33
+date: 2024-03-24T15:42:15.1515+08:00
+last-modified: 2024-05-10T18:51:17.1717+08:00
 ---
 
 In vanilla multi-head attention setting, there is a separate set of query, key and value vectors for each token. In this case, the memory usage goes up quickly for long sequence and incremental inference is often slow. Multi-query attention(MQA) instead shares keys and values across all different attention heads.
@@ -55,3 +55,4 @@ The output is
 ```
 
 > [!note] In terms of memory usage comparison between MQA and MHA, there may not be a noticeable decrease in memory usage for generating relatively short sequences, one can refer to [this discussion](https://discuss.huggingface.co/t/generate-using-k-v-cache-is-faster-but-no-difference-to-memory-usage/31272) or conduct more experiments themselves.
+				

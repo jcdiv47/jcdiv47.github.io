@@ -1,8 +1,8 @@
 ---
-date created: Wednesday, January 10th 2024, 21:36:21
-date modified: Tuesday, March 5th 2024, 21:31:04
 tags:
   - llm/models
+date: 2024-03-24T15:42:15.1515+08:00
+last-modified: 2024-05-01T16:10:53.5353+08:00
 ---
 # Mistral
 

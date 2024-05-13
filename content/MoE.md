@@ -1,6 +1,6 @@
 ---
-last-modified: 2024-03-25T23:08:45.4545+08:00
 date: 2024-03-03T15:42:15.1515+08:00
+last-modified: 2024-05-01T16:10:46.4646+08:00
 ---
 
 # MoE in language models
@@ -25,7 +25,9 @@ To mitigate this, an *auxiliary loss* is added to encourage giving all experts
 
 
 # Reference
+
 6
+
 - [Mixture of Experts Explained](https://huggingface.co/blog/moe)
 -  [全网最细致大模型MoE原理+代码手撕版](https://mp.weixin.qq.com/s?__biz=MzIwNDY1NTU5Mg%3D%3D&mid=2247487837&idx=1&sn=90dc098e8c2606704263de859c48e106&chksm=973d8fdaa04a06cc8dd098ab3310ade818adf93a6a1d632108f7b3e5c5749a809344656ba9e5&mpshare=1&scene=1&sharer_shareinfo=c3cd7128198bb4fda6568a5b25718855&sharer_shareinfo_first=c3cd7128198bb4fda6568a5b25718855#rd)
 - [makeMoE: Inplement a Sparse Mixture of Experts Language Model from Scratch](https://huggingface.co/blog/AviSoori1x/makemoe-from-scratch)

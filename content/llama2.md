@@ -1,8 +1,8 @@
 ---
-date created: Thursday, January 4th 2024, 23:49:30
-date modified: Monday, March 25th 2024, 20:49:55
 tags:
   - llm/models
+date: 2024-03-24T15:42:15.1515+08:00
+last-modified: 2024-05-01T16:12:36.3636+08:00
 ---
 # GeLU
 

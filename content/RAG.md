@@ -1,7 +1,7 @@
 ---
-date created: Friday, January 5th 2024, 0:17:12
-date modified: Monday, March 4th 2024, 23:05:38
 draft: "true"
+date: 2024-03-24T15:42:15.1515+08:00
+last-modified: 2024-05-01T16:09:43.4343+08:00
 ---
 
 > [!tip] Trying out a project called [Vanna](https://github.com/vanna-ai/vanna) that utilizes RAG for text-to-sql tasks.

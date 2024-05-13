@@ -4,6 +4,8 @@ date created: Saturday, January 6th 2024, 23:40:15
 date modified: Sunday, March 3rd 2024, 12:14:47
 tags:
   - deep-learning
+date: 2024-03-24T15:42:15.1515+08:00
+last-modified: 2024-05-01T16:12:54.5454+08:00
 ---
 > [!tip] Dive deep(pun intended) into neural nets with some exciting learnings! Try to become a back prop ninja with [Karpathy’s courses](https://github.com/karpathy/nn-zero-to-hero/blob/master/README.md).
 
